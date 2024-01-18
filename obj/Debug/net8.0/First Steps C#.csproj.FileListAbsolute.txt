@@ -12,3 +12,4 @@ C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Pers
 C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.pdb
 C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.genruntimeconfig.cache
 C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\ref\First Steps C#.dll
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.sourcelink.json

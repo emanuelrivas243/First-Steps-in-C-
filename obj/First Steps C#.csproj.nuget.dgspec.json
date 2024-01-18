@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj": {}
+    "C:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj": {
+    "C:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj",
+        "projectUniqueName": "C:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj",
         "projectName": "First Steps C#",
-        "projectPath": "c:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj",
+        "projectPath": "C:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\First Steps C#.csproj",
         "packagesPath": "C:\\Users\\EMANUEL ARTURO RIVAS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\obj\\",
+        "outputPath": "C:\\Users\\EMANUEL ARTURO RIVAS\\Documents\\Cursos Programacion - Mi Desarrollo Personal\\Cursos Programación\\First Steps C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EMANUEL ARTURO RIVAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
