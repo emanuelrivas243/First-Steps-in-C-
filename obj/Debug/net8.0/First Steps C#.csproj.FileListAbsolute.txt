@@ -1,0 +1,14 @@
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\bin\Debug\net8.0\First Steps C#.exe
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\bin\Debug\net8.0\First Steps C#.deps.json
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\bin\Debug\net8.0\First Steps C#.runtimeconfig.json
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\bin\Debug\net8.0\First Steps C#.dll
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\bin\Debug\net8.0\First Steps C#.pdb
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.AssemblyInfoInputs.cache
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.AssemblyInfo.cs
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.csproj.CoreCompileInputs.cache
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.dll
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\refint\First Steps C#.dll
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.pdb
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\First Steps C#.genruntimeconfig.cache
+C:\Users\EMANUEL ARTURO RIVAS\Documents\Cursos Programacion - Mi Desarrollo Personal\Cursos Programación\First Steps C#\obj\Debug\net8.0\ref\First Steps C#.dll
